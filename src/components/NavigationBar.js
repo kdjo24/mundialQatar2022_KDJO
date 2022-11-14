@@ -3,6 +3,9 @@ import { Link } from 'react-router-dom'
 import './estilo.css';
 
 export default class NavigationBar extends Component {
+    scroll = (int) => {
+        window.scroll(0,2000)
+    }
     render() {
         return (
             <div>
@@ -23,7 +26,7 @@ export default class NavigationBar extends Component {
                         <div class="masthead-subheading">Bienvenido</div>
                         <div class="masthead-heading text-uppercase">Qatar 2022</div>
 
-                        <a class="btn btn-primary btn-xl text-uppercase" href='#a'>Menu Principal</a>
+                        <div class="btn btn-primary btn-xl text-uppercase" onClick={() => this.scroll()}>Menu Principal</div>
 
                     </div>
                 </header>

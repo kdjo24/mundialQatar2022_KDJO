@@ -8,14 +8,11 @@ import Calendar from "./components/Calendar";
 
 function App() {
   return (
-    <Router>
-      
         <Routes>
           <Route exact path="/" element={<StartPage/>} />
           <Route exact path="/grupos" element={<Groups/>} />
           <Route exact path="/calendario" element={<Calendar/>} />
         </Routes>
-    </Router>
   );
 }
 
