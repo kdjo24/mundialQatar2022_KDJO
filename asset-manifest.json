@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mundialQatar2022_KDJO/static/css/main.c589c06e.css",
-    "main.js": "/mundialQatar2022_KDJO/static/js/main.cd52fb74.js",
+    "main.js": "/mundialQatar2022_KDJO/static/js/main.0ec5d3d8.js",
     "static/js/787.4b0af488.chunk.js": "/mundialQatar2022_KDJO/static/js/787.4b0af488.chunk.js",
     "index.html": "/mundialQatar2022_KDJO/index.html",
     "main.c589c06e.css.map": "/mundialQatar2022_KDJO/static/css/main.c589c06e.css.map",
-    "main.cd52fb74.js.map": "/mundialQatar2022_KDJO/static/js/main.cd52fb74.js.map",
+    "main.0ec5d3d8.js.map": "/mundialQatar2022_KDJO/static/js/main.0ec5d3d8.js.map",
     "787.4b0af488.chunk.js.map": "/mundialQatar2022_KDJO/static/js/787.4b0af488.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c589c06e.css",
-    "static/js/main.cd52fb74.js"
+    "static/js/main.0ec5d3d8.js"
   ]
 }
