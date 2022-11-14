@@ -8,7 +8,14 @@ import Calendar from "./components/Calendar";
 
 function App() {
   return (
-    <div>asdfasdf</div>
+    <Router>
+      
+        <Routes>
+          <Route exact path="https://kdjo24.github.io/mundialQatar2022_KDJO/" element={<StartPage/>} />
+          <Route exact path="/grupos" element={<Groups/>} />
+          <Route exact path="/calendario" element={<Calendar/>} />
+        </Routes>
+    </Router>
   );
 }
 
