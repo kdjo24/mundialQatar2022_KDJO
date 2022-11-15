@@ -206,7 +206,7 @@ export default class Calendar extends Component {
                         <div class="portfolio-hover">
                           <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="https://www.freepnglogos.com/uploads/vs-png/vintage-vs-with-black-lines-png-transparent-Images-12.png" />
+                        <img class="img-fluid" src="https://www.onlygfx.com/wp-content/uploads/2020/07/comic-vs-versus-1.png" />
                       </Link>
                     </div>
                   </div>
